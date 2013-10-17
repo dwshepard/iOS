@@ -18,7 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    // I'm entering text here to test a commit to GitHub
+    // I'm entering text here to test a commit
+    // Added my Github repo
+    // I'm enterting text here to do my second commit and push to github
 }
 
 - (void)didReceiveMemoryWarning
